@@ -25,7 +25,7 @@ Proyek ini dibangun menggunakan teknologi front-end standar yang ringan dan muda
 - **CSS3:** Untuk styling dan layout, termasuk penggunaan Flexbox dan CSS Grid.
 - **Bootstrap 5:** Sebagai framework CSS utama untuk grid system, komponen UI, dan responsivitas.
 - **AOS (Animate On Scroll):** Library JavaScript untuk memberikan efek animasi saat pengguna melakukan scroll.
-- **SwiperJS:** Library JavaScript untuk membuat slider/carousel (jika digunakan).
+- **SwiperJS:** Library JavaScript untuk membuat slider/carousel.
 
 ## Struktur Folder Proyek
 
