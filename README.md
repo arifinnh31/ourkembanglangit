@@ -4,10 +4,10 @@ Selamat datang di repositori resmi untuk website Kuliah Kerja Nyata (KKN) IDBU U
 
 ## Tinjauan Proyek
 
-Website ini adalah sebuah *landing page* statis yang dirancang untuk memberikan gambaran umum tentang program pemberdayaan masyarakat yang kami lakukan. Fokus utama program KKN Tim 89 adalah **"Pemberdayaan Ekonomi Berkelanjutan Masyarakat Desa Kembanglangit Melalui Inovasi Digital dan Branding Produk Unggulan Lokal"**.
+Website ini adalah sebuah *landing page* statis yang dirancang untuk memberikan gambaran umum tentang program pemberdayaan masyarakat yang kami lakukan. Fokus utama program KKN Tim 89 adalah **"Pemberdayaan Ekonomi Berkelanjutan Masyarakat D.Kembanglangit melalui Pengelolaan Teh dan Wisata Alam untuk Ketahanan Pangan dan Pengentasan Kemiskinan"**.
 
 ### Link Website
-**[Lihat Website Langsung](https://url-website-anda.com)**  *(<-- Ganti dengan URL website Anda setelah di-hosting)*
+**[Lihat Website Langsung](https://ourkembanglangit.vercel.app)**
 
 ## Fitur Utama
 
@@ -35,10 +35,10 @@ Berikut adalah gambaran umum struktur direktori proyek ini:
 ├── assets/
 │ ├── css/
 │ │ └── main.css # File styling utama
-│ ├── img/ # Folder untuk semua gambar (logo, foto tim, etc.)
-│ │ ├── team/ # (Direkomendasikan) Gambar anggota tim
+│ ├── img/ # Folder untuk semua gambar (logo, foto tim, dll.)
+│ │ ├── team/ # Gambar anggota tim
 │ │ └── ...
-│ └── vendor/ # File library pihak ketiga (Bootstrap, AOS, etc.)
+│ └── vendor/ # Library pihak ketiga (Bootstrap, AOS, dll.)
 ├── index.html # Halaman Utama
 ├── team.html # Halaman Tim
 ├── program.html # Halaman Program
@@ -63,8 +63,8 @@ Jika Anda ingin melakukan perubahan:
 
 Website ini dikelola dan dikembangkan oleh anggota tim KKN 89 UNDIP.
 
-- **Developer Utama:** [Nama Anda] - Informatika
-- **Konten & Desain:** [Nama anggota lain yang membantu] - [Jurusan]
+- **Developer Utama:** Arifin Nurmmuhammad Haris - Informatika
+- **Konten & Desain:** Arifin Nurmmuhammad Haris - Informatika
 
 ## Kontak
 
