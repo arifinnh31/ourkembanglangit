@@ -31,18 +31,20 @@ Proyek ini dibangun menggunakan teknologi front-end standar yang ringan dan muda
 
 Berikut adalah gambaran umum struktur direktori proyek ini:
 
+```
 .
 ├── assets/
 │ ├── css/
 │ │ └── main.css # File styling utama
-│ ├── img/ # Folder untuk semua gambar (logo, foto tim, dll.)
+│ ├── img/ # Folder untuk semua gambar (logo, foto tim, etc.)
 │ │ ├── team/ # Gambar anggota tim
 │ │ └── ...
-│ └── vendor/ # Library pihak ketiga (Bootstrap, AOS, dll.)
+│ └── vendor/ # File library pihak ketiga (Bootstrap, AOS, etc.)
 ├── index.html # Halaman Utama
 ├── team.html # Halaman Tim
 ├── program.html # Halaman Program
 └── README.md # Anda sedang membaca file ini
+```
 
 ## Cara Menjalankan Secara Lokal
 
